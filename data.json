@@ -1910,6 +1910,12 @@
       "base_url": "https://modrinth.com/user/{}",
       "follow_redirects": true,
       "errorType": "status_code"
+    },
+    {
+      "name":"YouPay.me",
+      "base_url":"https://youpay.me/{}",
+      "follow_redirects":true,
+      "errorType":"unknown"
     }
     ]
 }
